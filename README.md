@@ -9,4 +9,6 @@ Projeto desenvolvido em Java + Swing, utilizando SQL. Desenvolvido com o propós
 > Certifique-se de ter o XAMPP ou Wampserver instalados para conectar ao banco de dados e altere a conexão ao seu Banco de Dados no arquivo ```MyApp.java```, nas variáveis ```url, user, password```.
 
 ## Adicionando o Driver com IntelliJ
-Botão direito em ```java-ui-teste``` > ```Open Module Settings (F4)``` > Clique em JDBC > Clique no "+" > ```JARs or Directories``` > Selecione ```mysql-conector-j-8.3.0.jar``` > OK.
+Antes de tudo, extraia o arquivo ZIP baixado. Após isso, siga o passo a passo para inserir o Driver utilizando o IntelliJ.
+/
+Botão direito em ```java-ui-teste``` > ```Open Module Settings (F4)``` > Clique em JDBC > Clique no "+" > ```JARs or Directories``` > Selecione ```Downloads/mysql-connector-j-8.3.0/mysql-conector-j-8.3.0.jar``` > OK.
