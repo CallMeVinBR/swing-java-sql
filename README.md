@@ -12,4 +12,4 @@ Projeto desenvolvido em Java + Swing, utilizando SQL. Desenvolvido com o propós
 Antes de tudo, extraia o arquivo ZIP baixado. Após isso, siga o passo a passo para inserir o Driver utilizando o IntelliJ.
 \
 \
-Botão direito em ```java-ui-teste``` > ```Open Module Settings (F4)``` > Clique em JDBC > Clique no "+" > ```JARs or Directories``` > Selecione ```Downloads/mysql-connector-j-8.3.0/mysql-conector-j-8.3.0.jar``` > OK.
+Botão direito em ```java-ui-teste``` > ```Open Module Settings (F4)``` > Clique em JDBC > Clique no "+" > ```JARs or Directories``` > Selecione ```Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar``` > OK.
